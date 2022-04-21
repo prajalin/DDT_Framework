@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="92053" started-at="2022-03-12T06:08:40Z" finished-at="2022-03-12T06:10:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="92053" started-at="2022-03-12T06:08:40Z" finished-at="2022-03-12T06:10:12Z">
+      <class name="DriverFactory.TestScript">
+        <test-method status="PASS" signature="setup()[pri:0, instance:DriverFactory.TestScript@1933fd1]" name="setup" is-config="true" duration-ms="28708" started-at="2022-03-12T11:38:40Z" finished-at="2022-03-12T11:39:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="userModule()[pri:0, instance:DriverFactory.TestScript@1933fd1]" name="userModule" duration-ms="19404" started-at="2022-03-12T11:39:09Z" finished-at="2022-03-12T11:39:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userModule -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DriverFactory.TestScript@1933fd1]" name="tearDown" is-config="true" duration-ms="6145" started-at="2022-03-12T11:39:28Z" finished-at="2022-03-12T11:39:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:DriverFactory.TestScript@1933fd1]" name="setup" is-config="true" duration-ms="14972" started-at="2022-03-12T11:39:34Z" finished-at="2022-03-12T11:39:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="empModule()[pri:1, instance:DriverFactory.TestScript@1933fd1]" name="empModule" duration-ms="14004" started-at="2022-03-12T11:39:49Z" finished-at="2022-03-12T11:40:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- empModule -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DriverFactory.TestScript@1933fd1]" name="tearDown" is-config="true" duration-ms="8425" started-at="2022-03-12T11:40:03Z" finished-at="2022-03-12T11:40:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DriverFactory.TestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
